@@ -1,2 +1,3 @@
 # hello-world
 for i'm still a n00b i need to familiarise myself with github
+Thanks for taking the time to read this file, man. Though I don't really know why you're wasting so much energy to review my very first project on GitHub...
